@@ -1,7 +1,7 @@
 # Living-the-Social-Life
 
 ## Preview:
-[https://ketankarki.github.io/Responsive-SimpleLife/](https://ketankarki.github.io/Responsive-SimpleLife/)
+[https://tanya181818.github.io/Living-the-Social-Life/kevinrecent.html](https://tanya181818.github.io/Living-the-Social-Life/kevinrecent.html)
 
 * This is a responsive website which I made while practicing from a youtube video of freecodecamp.org which was instructed by Kevin Powell.
 * To watch the youtube video, click the image below
